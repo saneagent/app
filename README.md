@@ -1,2 +1,1 @@
-# app
-Causal Graph Analysis of GitHub Interactions and Their Impact on Cryptocurrency Trading Volume with Advanced Statistical Techniques
+This repository analyzes the causal relationships between GitHub interactions and cryptocurrency trading volume using directed acyclic graphs (DAGs) and advanced statistical methods. Large language models (LLMs) enhance text analysis, while SHAP provides feature importance insights into market dynamics.
