@@ -1,6 +1,3 @@
-# Análise Causal de Intervenções de Ansiedade com Algoritmos de Descoberta Causal
-
-## Descrição
 Este notebook apresenta uma análise avançada de intervenções para ansiedade, utilizando algoritmos de descoberta causal, especificamente o algoritmo FCI (Fast Causal Inference) da biblioteca `causallearn`. O objetivo principal é identificar relações causais entre estratégias de intervenção, níveis de ansiedade pré-intervenção e resultados pós-intervenção, proporcionando uma compreensão mais profunda sobre a eficácia das intervenções.
 
 ## Fluxo de Trabalho
